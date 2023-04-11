@@ -68,9 +68,15 @@
 </picture>
 
 <br />
-<br />
 
----
+### Stats:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=scibuff&count_private=true&show_icons=true&hide_border=true&theme=transparent">
+  <source media="(prefers-color-scheme: light)" srcset="(https://github-readme-stats.vercel.app/api?username=scibuff&count_private=true&show_icons=true&hide_border=true&theme=default">
+  <img align="left" title="Stats" src="https://github-readme-stats.vercel.app/api?username=scibuff&count_private=true&show_icons=true&hide_border=true&theme=transparent" />
+</picture>
+
 
 [276p]: https://en.wikipedia.org/wiki/276P/Vorobjov
 [facebook]: https://fb.com/scibuff
